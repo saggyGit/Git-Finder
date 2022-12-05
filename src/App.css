@@ -1,0 +1,15 @@
+ .layout{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+.container{
+   padding-left: 100px !important;
+}
+
+.scroll{
+   height: 72vh;
+   overflow-y: scroll;
+}
